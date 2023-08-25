@@ -42,5 +42,5 @@ Now we head on to some advanced stuff that takes more dedication, development sk
 
 # Final Project 🔥
 
-> rebuild your final year projects by your own might! ⚔️
+> Test your might by rebuilding your final year projects by yourself! good luck ⚔️
 >
