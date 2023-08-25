@@ -12,7 +12,7 @@ These projects cover the fundamentals of learning web development, the projects 
 
 | Project No. | Project Name | Skills touched | Description | Project Link |
 | --- | --- | --- | --- | --- |
-| 2 | styling html forms | html, css, javascript | how to style <form>, <input>, <button> |  |
+| 2 | styling html forms | html, css, javascript | how to style `<form>`, `<input>`, `<button>` |  |
 | 3 | Basic calculator | html, css, javascript | calculator using <form> with basic math functionality like addition, subtraction, multiplication, division and modulus / percentage |  |
 | 4 | Calculator | html, css, javascript | advanced calculator, that actually looks and feels, also function like an actual calculator |  |
 | 5 | Password Generator | html, css, javascript | random password generator based on conditions set using input elements, makes use of checkboxes, range slider and respective styling using css |  |
